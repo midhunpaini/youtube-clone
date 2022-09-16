@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../html-css-course"
+		},
+		{
+			"path": "../../../../html-css-course/styles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "youtube"
+	}
+}
